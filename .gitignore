@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+pred_files/
+classification/data/GTSRB/
+*.npy
+*.log
+nohup.out
